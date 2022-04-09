@@ -1,0 +1,44 @@
+[
+  {
+    "name": "AllTodos",
+    "path": "/AllTodos",
+    "component": "C:\\\\Users\\\\Nspira\\\\Desktop\\\\todo\\\\pages\\\\AllTodos.vue",
+    "chunkName": "pages/AllTodos",
+    "_name": "_3b2a2fe4"
+  },
+  {
+    "name": "Createtodo",
+    "path": "/Createtodo",
+    "component": "C:\\\\Users\\\\Nspira\\\\Desktop\\\\todo\\\\pages\\\\Createtodo.vue",
+    "chunkName": "pages/Createtodo",
+    "_name": "_ddf7dbf8"
+  },
+  {
+    "name": "Login",
+    "path": "/Login",
+    "component": "C:\\\\Users\\\\Nspira\\\\Desktop\\\\todo\\\\pages\\\\Login.vue",
+    "chunkName": "pages/Login",
+    "_name": "_f629e3d2"
+  },
+  {
+    "name": "Register",
+    "path": "/Register",
+    "component": "C:\\\\Users\\\\Nspira\\\\Desktop\\\\todo\\\\pages\\\\Register.vue",
+    "chunkName": "pages/Register",
+    "_name": "_d8248136"
+  },
+  {
+    "name": "UserHome",
+    "path": "/UserHome",
+    "component": "C:\\\\Users\\\\Nspira\\\\Desktop\\\\todo\\\\pages\\\\UserHome.vue",
+    "chunkName": "pages/UserHome",
+    "_name": "_a21146e8"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Nspira\\\\Desktop\\\\todo\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_43d14b20"
+  }
+]
